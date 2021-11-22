@@ -8,7 +8,11 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
- https://zsvoboda87.github.io/run-buddy/
+<<<<<<< HEAD
+ https://Zsvoboda87.github.io/run-buddy/
+=======
+https://Zsvoboda87.github.io/run-buddy/
+>>>>>>> main
 
 ## Contribution
 Made with ❤️ by Zsvoboda87
